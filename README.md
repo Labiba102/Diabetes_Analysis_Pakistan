@@ -109,4 +109,4 @@ Make sure your environment includes:
 
 Labiba Shahab
 Data Science & ML Enthusiast
-[LinkedIn](https://www.linkedin.com/in/labiba-shahab-2ba3261b1/)]
+[LinkedIn](https://www.linkedin.com/in/labiba-shahab-2ba3261b1/)

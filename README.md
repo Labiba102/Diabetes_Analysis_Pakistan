@@ -88,14 +88,14 @@ Make sure your environment includes:
 * Python 3.7+
 * `kagglehub >= 0.3.10`
 
-## 🔍 Future Improvements
+## Future Improvements
 
 * Add hyperparameter tuning with `GridSearchCV`
 * Experiment with ensemble models (Random Forest, XGBoost)
 * Evaluate on external datasets
 * Deploy the model using Streamlit or Flask
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 .
@@ -108,5 +108,4 @@ Make sure your environment includes:
 ## Author
 
 Labiba Shahab
-Data Science & ML Enthusiast
 [LinkedIn](https://www.linkedin.com/in/labiba-shahab-2ba3261b1/)
